@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JtRmfmmT+O4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johan Capule\\OneDrive\\Desktop\\Activity3_Finals\\Activity3\\Activity3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan Capule\\.nuget\\packages\\system.data.oledb\\10.0.14\\system.data.oledb.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
